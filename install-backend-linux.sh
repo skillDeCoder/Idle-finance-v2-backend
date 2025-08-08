@@ -15,7 +15,7 @@ echo "
 #### ########  ######## ########         ##       #### ##    ## ##     ## ##    ##  ######  ######## 
 "
 
-echo "Downloading backend..."
+echo "Downloading backend... linux"
 curl -L "${BINARY_URL}" -o backend
 
 echo "Making backend executable..."
